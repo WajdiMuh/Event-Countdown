@@ -1,0 +1,6 @@
+[submodule "Event-Countdown-Ionic"]
+	path = Event-Countdown-Ionic
+	url = https://github.com/WajdiMuh/Event-Countdown-Ionic
+[submodule "Event-Countdown-Backend"]
+	path = Event-Countdown-Backend
+	url = https://github.com/WajdiMuh/Event-Countdown-Backend
